@@ -8,7 +8,6 @@ class day3task2 {
 
         System.out.print("Enter marks (0 - 100): ");
         marks = sc.nextInt();
-
         if (marks >= 90) {
             System.out.println("Grade: A");
         }
